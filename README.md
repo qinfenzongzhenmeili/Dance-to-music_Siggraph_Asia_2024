@@ -1,4 +1,4 @@
-# Dance-to-music_Siggraph_Aisa_2024
+# Dance-to-music_Siggraph_Asia_2024
 The official code for [“Dance-to-Music Generation with Encoder-based Textual Inversion“](https://arxiv.org/abs/2401.17800)
 ![Teaser](./teaser.png)
 Demo are available at [Dance-to-music](https://youtu.be/y2pG2S5xDLY).
@@ -62,10 +62,10 @@ python test.py
 
 If you found this tool useful, please consider citing
 ```bibtex
-@article{li2024dance,
+@inproceedings{li2024dance,
   title={Dance-to-music generation with encoder-based textual inversion of diffusion models},
   author={Li, Sifei and Dong, Weiming and Zhang, Yuxin and Tang, Fan and Ma, Chongyang and Deussen, Oliver and Lee, Tong-Yee and Xu, Changsheng},
-  journal={arXiv preprint arXiv:2401.17800},
+  booktitle={ACM SIGGRAPH Asia (Conference Paper Track)},
   year={2024}
 }
 ```
